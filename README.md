@@ -31,6 +31,7 @@ Benefit of use case diagrams
 <img width="681" height="761" alt="alx-booking-uc.png" src="https://github.com/user-attachments/assets/40f649ae-3fa9-4786-b1e8-ad66ff41699d" />
 
 
+
 Acceptance Criteria
 conditions that a feature must meet to be accepted by the stakeholders
 
