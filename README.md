@@ -30,6 +30,7 @@ Benefit of use case diagrams
 3. Facilitate communication among stakeholders and development team
 
 ![use case diagram]<img width="681" height="761" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/dfc1f137-1cca-40e9-ab23-bfd255bc97d5" />
+alx-booking-uc.png
 
 
 Acceptance Criteria
