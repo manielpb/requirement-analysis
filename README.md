@@ -28,7 +28,7 @@ Benefit of use case diagrams
 1. Provide a clear visual representation of system functionalities
 2. Help in identifying and organizing system requirements
 3. Facilitate communication among stakeholders and development team
-<img width="681" height="761" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/40f649ae-3fa9-4786-b1e8-ad66ff41699d" />
+<img width="681" height="761" alt="alx-booking-uc.png" src="https://github.com/user-attachments/assets/40f649ae-3fa9-4786-b1e8-ad66ff41699d" />
 
 
 Acceptance Criteria
