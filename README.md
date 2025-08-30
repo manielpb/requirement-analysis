@@ -20,3 +20,18 @@ Types of Requirements
    examples; customer service, view booking sefrvice
 2. Non-Functional Requirements: Describe how the syatem should perform
    examples; Hotel management service
+
+Use Case Diagrams
+Use case diagrams show how different users(actors) interacy with the system to achieve specific goals(use ccases)
+
+Benefit of use case diagrams
+1. Provide a clear visual representation of system functionalities
+2. Help in identifying and organizing system requirements
+3. Facilitate communication among stakeholders and development team
+
+![use case diagram]<img width="681" height="761" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/dfc1f137-1cca-40e9-ab23-bfd255bc97d5" />
+
+
+Acceptance Criteria
+conditions that a feature must meet to be accepted by the stakeholders
+
